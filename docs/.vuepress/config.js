@@ -32,6 +32,16 @@ module.exports = {
           ]
         }
       ],
+    '/knowledge/learn/':[
+      {
+        title: '学习前端心得',
+        children: [
+          '',
+          'ways.md',
+          'more.md'
+        ]
+      }
+    ]
     },
     sidebarDepth: 1,
   },
