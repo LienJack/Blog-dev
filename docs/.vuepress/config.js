@@ -14,6 +14,7 @@ module.exports = {
           ] 
         },
         { text: '工程', link: '/work/' },
+        { text: '杂文', link: '/essay/' },
         { text: '关于', link: '/about/' },
         { text: 'Github', link: 'https://github.com/LienJack/Blog-dev' },
     ],
@@ -40,6 +41,15 @@ module.exports = {
           'develop.md',
           'more.md',
           'ssh.md'
+        ]
+      }
+    ],
+    '/essay/':[
+      {
+        title: '收藏的杂文',
+        children: [
+          '',
+          '20190103',
         ]
       }
     ]
