@@ -1,6 +1,6 @@
 module.exports = {
-  title: '个人主页',
-  description: 'lien的知识库',
+  title: 'lien的知识库',
+  description: 'Beta测试版（持续更新）',
   base: '/Blog/',
   themeConfig: {
     nav: [
@@ -15,7 +15,7 @@ module.exports = {
         },
         { text: '工程', link: '/work/' },
         { text: '关于', link: '/about/' },
-        { text: 'Github', link: 'https://github.com/LienJack/' },
+        { text: 'Github', link: 'https://github.com/LienJack/Blog-dev' },
     ],
     sidebar: {
       '/knowledge/js/': [
@@ -37,8 +37,9 @@ module.exports = {
         title: '学习前端心得',
         children: [
           '',
-          'ways.md',
-          'more.md'
+          'develop.md',
+          'more.md',
+          'ssh.md'
         ]
       }
     ]
