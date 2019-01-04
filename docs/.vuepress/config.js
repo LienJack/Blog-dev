@@ -29,7 +29,8 @@ module.exports = {
             '2.scope',
             '3.this',
             '4.oop',
-            '5.async'
+            '5.async',
+            'nojquery'
           ]
         }
       ],
