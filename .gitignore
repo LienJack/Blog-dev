@@ -2,3 +2,6 @@
 node_modules/
 
 docs/.vuepress/dist/
+docs/.vuepress/dist/404.html
+docs/.vuepress/dist/404.html
+docs/.vuepress/dist/about/index.html
